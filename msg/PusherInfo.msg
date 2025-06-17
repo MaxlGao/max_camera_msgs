@@ -1,0 +1,9 @@
+std_msgs/Header header
+int32 frame_num
+string pusher_name
+std_msgs/ColorRGBA color
+geometry_msgs/Point pusher_location
+geometry_msgs/Point nearest_point
+float32 kappa
+int32 object_index
+int32 local_contour_index
